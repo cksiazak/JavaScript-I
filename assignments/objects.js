@@ -53,15 +53,15 @@ const fiftStudent = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-
+console.log(firstStudent.name);
 // Kennan's ID
-
+console.log(secondStudent.id);
 // Keven's email
-
+console.log(thirdStudent.email);
 // Gannie's name
-
+console.log(fourthStudent.name);
 // Antonietta's Gender
-
+console.log(fiftStudent.name);
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 // console.log(kennan.speak());
